@@ -1,0 +1,20 @@
+.center-div {
+  text-align: center;
+}
+.align-left {
+  text-align: left;
+}
+.adjust-field-set {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*Error messages*/
+.errors {
+  color: #d8000c;
+  background-color: #ffd2d2;
+  border: 1px solid;
+  box-shadow: 1px 1px 3px #888;
+  font-size: 15px;
+  text-align: center;
+}
