@@ -1,0 +1,23 @@
+.patient-table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #f2f2f21c;
+  padding: 20px;
+}
+.patient-action{
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+.patient-action:hover{
+  background-color: #555555;
+  color: white;
+}
